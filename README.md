@@ -1,1 +1,3 @@
-# Projet_STEP
+# Water Treatment Plan
+## Project in progress
+### Aim to simulate waste water treatment 
